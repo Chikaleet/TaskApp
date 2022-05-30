@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">TaskApp</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_profile">Profile</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="profile_image">Add Profile Image</string>
+    <string name="edit_your_task">Edit your task</string>
+    <string name="save_text">Save Text</string>
+    <string name="task_txt">Test Label No. 0</string>
+    <string name="date">May 19</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="write_your_name">Write your name</string>
+    <string name="write_your_name1">Write your name</string>
+    <string name="save">Save</string>
+    <string name="sort_alphabetically">Sort Alphabetically</string>
+    <string name="sort_by_date">Sort by date</string>
+    <string name="write_your_email">Write your email</string>
+    <string name="write_your_password">Write your password</string>
+    <string name="enter_register">Enter/register</string>
+    <string name="forgot_your_password">Forgot your password?</string>
+    <string name="login_with">Login with</string>
+    <string name="facebook_app_id">1213818526056861</string>
+    <string name="fb_login_protocol_scheme">fb1234</string>
+    <string name="facebook_client_token">463762a3742a8b28b1c59e5129ac87ba</string>
+</resources>
